@@ -1,0 +1,153 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.heading{
+    color: crimson;
+    line-height: 30px;
+    word-spacing: 32px;
+    font-family: 'Dancing Script';font-size: 22px;
+}
+
+.heading:first-of-type{
+    text-align: center;
+    text-transform: capitalize;
+}
+.heading:last-of-type{
+    letter-spacing: 10px;
+}
+.paraqraf{
+    text-decoration: underline !important;
+    color: #99897E;
+}
+.first-paragraph{
+    font-weight: bold;
+}
+.large-paragraph {
+    font-family: 'Raleway';
+    text-transform: lowercase;
+    font-style: italic;
+    font-size: 22px;
+    text-align: center;
+
+
+}
+
+.title2{
+    font-family: 'Indie Flower';
+    text-decoration: line-through;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#first_block{
+    background-color: lightblue;
+    background-image: url("../image-1.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+#second_block{
+    background-color: darksalmon;
+    background-image: url("../image-2.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}
+#third_block{
+    background-color: darkseagreen;
+    background-image: url("../image-3.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
